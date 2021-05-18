@@ -21,3 +21,9 @@ For $ECpow or $WCpow you can specify a number for approximate weeks ago as an ar
 *This is usually accurate but can be disrupted since the NBA skips a POW sometimes.
 <br/>
 Includes player image, name, position, and age, and link to full table.
+
+Images
+![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-1.png?raw=true) <br/>
+![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-2.png?raw=true) <br/>
+![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-3.png?raw=true) <br/>
+![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-4.png?raw=true) <br/>
