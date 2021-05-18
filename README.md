@@ -22,6 +22,13 @@ For $ECpow or $WCpow you can specify a number for approximate weeks ago as an ar
 <br/>
 Includes player image, name, position, and age, and link to full table.
 
+Future Updates:
+<ul>
+  <li>Add to more popular bots?</li>
+  <li>Cache data so not as slow / resourceful.</li>
+  <li>Instead of random color embed color is matching players team.</li>
+</ul>
+
 ## Examples
 ![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-1.png?raw=true) <br/>
 ![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-2.png?raw=true) <br/>
