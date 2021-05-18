@@ -22,7 +22,7 @@ For $ECpow or $WCpow you can specify a number for approximate weeks ago as an ar
 <br/>
 Includes player image, name, position, and age, and link to full table.
 
-Images
+## Examples
 ![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-1.png?raw=true) <br/>
 ![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-2.png?raw=true) <br/>
 ![alt text](https://github.com/samirrh/NBAbot/blob/main/NBAbot-example-3.png?raw=true) <br/>
