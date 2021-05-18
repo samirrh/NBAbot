@@ -37,12 +37,11 @@ def get_pow():
       playersInfo[tds[2].text]['team']=tds[4].text
       playersInfo[tds[2].text]['pos']=tds[5].text
       playersInfo[tds[2].text]['age']=tds[8].text
-  embed.add_field(name="Eastern Conference Player of the Week", value=playersInfo['East']['name'], inline=False)
   embed.add_field(name="Eastern Conference Player of the Week - "+playersInfo['date'], value=playersInfo['East']['name'], inline=False)
   embed.add_field(name="Team", value=playersInfo['East']['team'], inline=True)
   embed.add_field(name="Position", value=playersInfo['East']['pos'], inline=True)
   embed.add_field(name="Age", value=playersInfo['East']['age'], inline=True)
-  embed.add_field(name="Western Conference Player of the Week", value=playersInfo['West']['name'], inline=False)
+  embed.add_field(name="Western Conference Player of the Week - "+playersInfo['date'], value=playersInfo['West']['name'], inline=False)
   embed.add_field(name="Team", value=playersInfo['West']['team'], inline=True)
   embed.add_field(name="Position", value=playersInfo['West']['pos'], inline=True)
   embed.add_field(name="Age", value=playersInfo['West']['age'], inline=True)
@@ -153,4 +152,3 @@ async def NBApow(ctx):
     await ctx.send(embed=get_pow())
 
 bot.run(os.environ['TOKEN'])
-
