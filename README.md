@@ -1,5 +1,5 @@
 # NBAbot
-![alt text](https://github.com/samirrh/NBAbot/blob/master/example.gif?raw=true)
+
 Anyone that knows me knows I love to play and watch basketball.
 
 I was on a couple basketabll servers on discord and i noticed that there wasn't a player of the week command on any of the bots. <br/>
