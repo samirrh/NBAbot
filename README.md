@@ -26,7 +26,7 @@ Future Updates:
 <ul>
   <li>Add to more popular bots?</li>
   <li>Cache data so not as slow / resourceful.</li>
-  <li>Instead of random color embed color is matching players team.</li>
+  <li>Instead of random color, embed color is matching players team.</li>
 </ul>
 
 ## Examples
